@@ -1,6 +1,6 @@
 *{
-    background-color: rgb(67, 66, 66);
-    color: rgb(13, 14, 14);
+    background-color: rgb(0, 0, 0);
+    color: rgb(247, 248, 248);
     margin: 0;
    padding: 0;
 
@@ -77,7 +77,8 @@ summary:hover{
     flex: 1;
     border:2px solid white;
     background: radial-gradient(circle, rgb(0,42,255)0%, rgb(255,0,51)100%);
-    padding: 20px;
+    height:600px;
+    width:200px;
 
 }
 
